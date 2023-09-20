@@ -32,7 +32,7 @@ Archivos2 = "Asi se listan los archivos con path"
 
 
 #Crear carpetas usando python
-#os.mkdir('CarpetaCreadaConOs')
+os.mkdir('PrimerVideo')
 #Crear carpeta con path, ventaja de path es que se puede comprobar si la carpeta existe o no
 
 #Path('CarpetaCreadaConPath').mkdir(exist_ok=True)
